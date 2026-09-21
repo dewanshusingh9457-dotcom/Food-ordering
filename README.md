@@ -84,7 +84,7 @@ eateasy/
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/chiragverma11/EatEasy_Food_Ordering_Website.git
+   git clone https://github.com/dewanshusingh9457-dotcom/Food-ordering.git
    cd eateasy-main
    ```
 
